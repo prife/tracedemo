@@ -16,7 +16,7 @@
 
 #include "log.h"
 
-#include "core/cc/target.h"
+#include "target.h"
 
 #if TARGET_OS != GAPID_OS_ANDROID
 
