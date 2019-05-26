@@ -42,6 +42,8 @@ you can see
 05-26 13:37:11.667 10445 10501 I GAPID   : [/home/wetest/workspace/dldemo/jni/../test.cpp:19] ######: glClear enter #######: arg: 16384
 ```
 
+![logcat](logcat.png)
+
 ## reference
 
 1. https://github.com/googlesamples/android-ndk/tree/master-ndkbuild
